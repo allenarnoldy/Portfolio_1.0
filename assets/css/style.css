@@ -347,7 +347,7 @@
  
   /* TODO: Add portfolio project images here using background images*/
   .run-buddy {
-    background-image: url('../images/awesome_2.jpg');
+    background-image: url('../images/awesome_3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -361,23 +361,37 @@
   }
   
   .react-calc {
-    background-image: url('../images/awesome_4.jpg');
+    background-image: url('../images/awesome_4.jpeg');
     background-size: cover;
-    background-position: center;
+    background-position: top 20px;
     background-repeat: no-repeat;
   }
   
   .pastel-puzzles {
     background-image: url('../images/awesome_5.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: bottom 20px;
     background-repeat: no-repeat;
   }
   
   .surf-report {
-    background-image: url('../images/awesome_6.jpg');
+    background-image: url('../images/awesome_6.jpeg');
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .awesome_7 {
+    background-image: url('../images/awesome_7.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+  }
+
+  .awesome_8 {
+    background-image: url('../images/awesome_8.jpg');
+    background-size: cover;
+    background-position: bottom;
     background-repeat: no-repeat;
   }
 
